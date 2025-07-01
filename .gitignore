@@ -116,10 +116,13 @@ ehthumbs.db
 Thumbs.db
 
 # Data files (uncomment if you don't want to include data)
-# *.csv
+*.csv
 # *.sqlite
 # *.parquet
 # *.duckdb
+
+# Keep only essential files for GitHub
+dashboard.py
 
 # Streamlit
 .streamlit/
